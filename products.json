@@ -1,11 +1,10 @@
 [
-
   {
     "id": "b001",
     "name": "Blue Bible",
     "category": "Bibles",
     "price": 150.0,
-    "image": "assets/Bibles/Blue Bible.png",
+    "image": "Blue Bible.png",
     "description": "A timeless edition wrapped in calming blue."
   },
   {
@@ -13,7 +12,7 @@
     "name": "Brown Bible",
     "category": "Bibles",
     "price": 150,
-    "image": "assets/Bibles/Brown Bible.png",
+    "image": "Brown Bible.png",
     "description": "Classic. Strong. Grounded in truth."
   },
   {
@@ -21,7 +20,7 @@
     "name": "Design Bible",
     "category": "Bibles",
     "price": 200,
-    "image": "assets/Bibles/Grace Bible.png",
+    "image": "Grace Bible.png",
     "description": "Soft leather and a graceful design."
   },
   {
@@ -29,7 +28,7 @@
     "name": "Mink Bible",
     "category": "Bibles",
     "price": 200,
-    "image": "assets/Bibles/Mink Bible.png",
+    "image": "Mink Bible.png",
     "description": "Soft mink-touch material for a luxurious feel."
   },
   {
@@ -37,7 +36,7 @@
     "name": "Old Bible",
     "category": "Bibles",
     "price": 180,
-    "image": "assets/Bibles/Old Bible.png",
+    "image": "Old Bible.png",
     "description": "Compact and lightweight, ideal for travel."
   },
   {
@@ -45,7 +44,7 @@
     "name": "Pink Bible",
     "category": "Bibles",
     "price": 250,
-    "image": "assets/Bibles/Pink Bible.png",
+    "image": "Pink Bible.png",
     "description": "With notes and maps for deeper understanding."
   },
   {
@@ -53,7 +52,7 @@
     "name": "Purple Bible",
     "category": "Bibles",
     "price": 170,
-    "image": "assets/Bibles/Purple Bible.png",
+    "image": "Purple Bible.png",
     "description": "Colorful and engaging for young readers."
   },
   {
@@ -61,17 +60,15 @@
     "name": "White Bible",
     "category": "Bibles",
     "price": 300,
-    "image": "assets/Bibles/White Bible.png",
+    "image": "White Bible.png",
     "description": "Large format, made for family readings."
   },
-
- 
   {
     "id": "n101",
     "name": "Butterfly Notebook",
     "category": "Notebooks",
     "price": 99.99,
-    "image": "assets/Notebook/Bat.png",
+    "image": "Bat.png",
     "description": "Premium lined notebook for journaling."
   },
   {
@@ -79,7 +76,7 @@
     "name": "Brown Noteboook",
     "category": "Notebooks",
     "price": 89.99,
-    "image": "assets/Notebook/Brown.png",
+    "image": "Brown.png",
     "description": "Softcover with motivational verses."
   },
   {
@@ -87,7 +84,7 @@
     "name": "Flowery Notebook",
     "category": "Notebooks",
     "price": 120.0,
-    "image": "assets/Notebook/Flowers.png",
+    "image": "Flowers.png",
     "description": "Hardcover spiral notebook."
   },
   {
@@ -95,7 +92,7 @@
     "name": "Godly Notebook",
     "category": "Notebooks",
     "price": 79.99,
-    "image": "assets/Notebook/GodDoesGood.png",
+    "image": "GodDoesGood.png",
     "description": "God isnpired notebook for daily use."
   },
   {
@@ -103,7 +100,7 @@
     "name": "Love Notebook",
     "category": "Notebooks",
     "price": 109.0,
-    "image": "assets/Notebook/Love.png",
+    "image": "Love.png",
     "description": "Aesthetic cover, perfect for gifting a lover."
   },
   {
@@ -111,7 +108,7 @@
     "name": "Purple Notebook",
     "category": "Notebooks",
     "price": 95.0,
-    "image": "assets/Notebook/Purple.png",
+    "image": "Purple.png",
     "description": "Purple coloured daily journal."
   },
   {
@@ -119,7 +116,7 @@
     "name": "Suid Notebook",
     "category": "Notebooks",
     "price": 99.5,
-    "image": "assets/Notebook/Suid.png",
+    "image": "Suid.png",
     "description": "Lightweight, suid notebook."
   },
   {
@@ -127,16 +124,15 @@
     "name": "Drafting Notebook",
     "category": "Notebooks",
     "price": 110.0,
-    "image": "assets/Notebook/Thoughts.png",
+    "image": "Thoughts.png",
     "description": "Brown cover notebook with bookmark."
   },
-
   {
     "id": "ca301",
     "name": "Black candle",
     "category": "Candles",
     "price": 149.99,
-    "image": "assets/Candles/Black.png",
+    "image": "Black.png",
     "description": "Scented candle with lavender aroma."
   },
   {
@@ -144,7 +140,7 @@
     "name": "Brown Candle",
     "category": "Candles",
     "price": 159.0,
-    "image": "assets/Candles/Brown.png",
+    "image": "Brown.png",
     "description": "Brown wax candle in a glass jar."
   },
   {
@@ -152,7 +148,7 @@
     "name": "Gold Candle",
     "category": "Candles",
     "price": 139.5,
-    "image": "assets/Candles/GOLD.png",
+    "image": "GOLD.png",
     "description": "Vanilla scent, long burning hours."
   },
   {
@@ -160,7 +156,7 @@
     "name": "Hopeful Candle",
     "category": "Candles",
     "price": 129.0,
-    "image": "assets/Candles/HOPE.png",
+    "image": "HOPE.png",
     "description": "Touching message"
   },
   {
@@ -168,7 +164,7 @@
     "name": "Mother's Candle",
     "category": "Candles",
     "price": 199.0,
-    "image": "assets/Candles/MUM.png",
+    "image": "MUM.png",
     "description": "Large candle with message for mom."
   },
   {
@@ -176,7 +172,7 @@
     "name": "Purple Candles",
     "category": "Candles",
     "price": 189.0,
-    "image": "assets/Candles/Purple.png",
+    "image": "Purple.png",
     "description": "Bult Candles."
   },
   {
@@ -184,7 +180,7 @@
     "name": "Love Candle",
     "category": "Candles",
     "price": 179.0,
-    "image": "assets/Candles/YOME.png",
+    "image": "YOME.png",
     "description": "A candle of love for couples."
   },
   {
@@ -192,17 +188,15 @@
     "name": "Red Candle",
     "category": "Candles",
     "price": 169.5,
-    "image": "assets/Candles/SLOW.png",
+    "image": "SLOW.png",
     "description": "Elegant packaging, perfect for gifts."
   },
-
-
   {
     "id": "wa501",
     "name": "Believe Canvas",
     "category": "Wall Art",
     "price": 299.0,
-    "image": "assets/Wall Art/Believe.png",
+    "image": "Believe.png",
     "description": "Framed scripture artwork."
   },
   {
@@ -210,7 +204,7 @@
     "name": "Jesus Christ love",
     "category": "Wall Art",
     "price": 349.0,
-    "image": "assets/Wall Art/Child.png",
+    "image": "Child.png",
     "description": "Canavs showing how God loves us."
   },
   {
@@ -218,7 +212,7 @@
     "name": "It is finished Canvas ",
     "category": "Wall Art",
     "price": 279.5,
-    "image": "assets/Wall Art/Finished.png",
+    "image": "Finished.png",
     "description": "Crucifiction of Jesus Christ poster."
   },
   {
@@ -226,7 +220,7 @@
     "name": "Jesus CHrist Canvas",
     "category": "Wall Art",
     "price": 399.0,
-    "image": "assets/Wall Art/Live.png",
+    "image": "Live.png",
     "description": "Triptych layout of famous verses."
   },
   {
@@ -234,7 +228,7 @@
     "name": "He is risen poster",
     "category": "Wall Art",
     "price": 200.0,
-    "image": "assets/Wall Art/Risen.png",
+    "image": "Risen.png",
     "description": "He is Risen, the grave is empty."
   },
   {
@@ -242,7 +236,7 @@
     "name": "Blue Sky Canvas",
     "category": "Wall Art",
     "price": 329.0,
-    "image": "assets/Wall Art/Sky.png",
+    "image": "Sky.png",
     "description": "Nature + scripture photo print."
   },
   {
@@ -250,7 +244,7 @@
     "name": "Bible Scripture Canvas",
     "category": "Wall Art",
     "price": 299.5,
-    "image": "assets/Wall Art/Strength.png",
+    "image": "Strength.png",
     "description": "Powerful Bible Verse Art."
   },
   {
@@ -258,7 +252,7 @@
     "name": "Jesus walks on water",
     "category": "Wall Art",
     "price": 359.0,
-    "image": "assets/Wall Art/Water.png",
+    "image": "Water.png",
     "description": "Wall art of Jesus walking on water."
   }
 ]
