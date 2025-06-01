@@ -4,7 +4,7 @@
     "name": "Blue Bible",
     "category": "Bibles",
     "price": 150.0,
-    "image": "Blue Bible.png",
+    "image": "biblesbyblessing-backend/Blue Bible.png",
     "description": "A timeless edition wrapped in calming blue."
   },
   {
@@ -12,7 +12,7 @@
     "name": "Brown Bible",
     "category": "Bibles",
     "price": 150,
-    "image": "Brown Bible.png",
+    "image": "biblesbyblessing-backend/Brown Bible.png",
     "description": "Classic. Strong. Grounded in truth."
   },
   {
@@ -20,7 +20,7 @@
     "name": "Design Bible",
     "category": "Bibles",
     "price": 200,
-    "image": "Grace Bible.png",
+    "image": "biblesbyblessing-backend/Grace Bible.png",
     "description": "Soft leather and a graceful design."
   },
   {
@@ -28,7 +28,7 @@
     "name": "Mink Bible",
     "category": "Bibles",
     "price": 200,
-    "image": "Mink Bible.png",
+    "image": "biblesbyblessing-backend/Mink Bible.png",
     "description": "Soft mink-touch material for a luxurious feel."
   },
   {
@@ -36,7 +36,7 @@
     "name": "Old Bible",
     "category": "Bibles",
     "price": 180,
-    "image": "Old Bible.png",
+    "image": "biblesbyblessing-backend/Old Bible.png",
     "description": "Compact and lightweight, ideal for travel."
   },
   {
@@ -44,7 +44,7 @@
     "name": "Pink Bible",
     "category": "Bibles",
     "price": 250,
-    "image": "Pink Bible.png",
+    "image": "biblesbyblessing-backend/Pink Bible.png",
     "description": "With notes and maps for deeper understanding."
   },
   {
@@ -52,7 +52,7 @@
     "name": "Purple Bible",
     "category": "Bibles",
     "price": 170,
-    "image": "Purple Bible.png",
+    "image": "biblesbyblessing-backend/Purple Bible.png",
     "description": "Colorful and engaging for young readers."
   },
   {
@@ -60,7 +60,7 @@
     "name": "White Bible",
     "category": "Bibles",
     "price": 300,
-    "image": "White Bible.png",
+    "image": "biblesbyblessing-backend/White Bible.png",
     "description": "Large format, made for family readings."
   },
   {
@@ -68,15 +68,15 @@
     "name": "Butterfly Notebook",
     "category": "Notebooks",
     "price": 99.99,
-    "image": "Bat.png",
+    "image": "biblesbyblessing-backend/Bat.png",
     "description": "Premium lined notebook for journaling."
   },
   {
     "id": "n102",
-    "name": "Brown Noteboook",
+    "name": "Brown Notebook",
     "category": "Notebooks",
     "price": 89.99,
-    "image": "Brown.png",
+    "image": "biblesbyblessing-backend/Brown.png",
     "description": "Softcover with motivational verses."
   },
   {
@@ -84,7 +84,7 @@
     "name": "Flowery Notebook",
     "category": "Notebooks",
     "price": 120.0,
-    "image": "Flowers.png",
+    "image": "biblesbyblessing-backend/Flowers.png",
     "description": "Hardcover spiral notebook."
   },
   {
@@ -92,15 +92,15 @@
     "name": "Godly Notebook",
     "category": "Notebooks",
     "price": 79.99,
-    "image": "GodDoesGood.png",
-    "description": "God isnpired notebook for daily use."
+    "image": "biblesbyblessing-backend/GodDoesGood.png",
+    "description": "God inspired notebook for daily use."
   },
   {
     "id": "n105",
     "name": "Love Notebook",
     "category": "Notebooks",
     "price": 109.0,
-    "image": "Love.png",
+    "image": "biblesbyblessing-backend/Love.png",
     "description": "Aesthetic cover, perfect for gifting a lover."
   },
   {
@@ -108,7 +108,7 @@
     "name": "Purple Notebook",
     "category": "Notebooks",
     "price": 95.0,
-    "image": "Purple.png",
+    "image": "biblesbyblessing-backend/Purple.png",
     "description": "Purple coloured daily journal."
   },
   {
@@ -116,7 +116,7 @@
     "name": "Suid Notebook",
     "category": "Notebooks",
     "price": 99.5,
-    "image": "Suid.png",
+    "image": "biblesbyblessing-backend/Suid.png",
     "description": "Lightweight, suid notebook."
   },
   {
@@ -124,15 +124,15 @@
     "name": "Drafting Notebook",
     "category": "Notebooks",
     "price": 110.0,
-    "image": "Thoughts.png",
+    "image": "biblesbyblessing-backend/Thoughts.png",
     "description": "Brown cover notebook with bookmark."
   },
   {
     "id": "ca301",
-    "name": "Black candle",
+    "name": "Black Candle",
     "category": "Candles",
     "price": 149.99,
-    "image": "Black.png",
+    "image": "biblesbyblessing-backend/Black.png",
     "description": "Scented candle with lavender aroma."
   },
   {
@@ -140,7 +140,7 @@
     "name": "Brown Candle",
     "category": "Candles",
     "price": 159.0,
-    "image": "Brown.png",
+    "image": "biblesbyblessing-backend/Brown.png",
     "description": "Brown wax candle in a glass jar."
   },
   {
@@ -148,7 +148,7 @@
     "name": "Gold Candle",
     "category": "Candles",
     "price": 139.5,
-    "image": "GOLD.png",
+    "image": "biblesbyblessing-backend/GOLD.png",
     "description": "Vanilla scent, long burning hours."
   },
   {
@@ -156,7 +156,7 @@
     "name": "Hopeful Candle",
     "category": "Candles",
     "price": 129.0,
-    "image": "HOPE.png",
+    "image": "biblesbyblessing-backend/HOPE.png",
     "description": "Touching message"
   },
   {
@@ -164,7 +164,7 @@
     "name": "Mother's Candle",
     "category": "Candles",
     "price": 199.0,
-    "image": "MUM.png",
+    "image": "biblesbyblessing-backend/MUM.png",
     "description": "Large candle with message for mom."
   },
   {
@@ -172,15 +172,15 @@
     "name": "Purple Candles",
     "category": "Candles",
     "price": 189.0,
-    "image": "Purple.png",
-    "description": "Bult Candles."
+    "image": "biblesbyblessing-backend/Purple.png",
+    "description": "Bulk Candles."
   },
   {
     "id": "ca307",
     "name": "Love Candle",
     "category": "Candles",
     "price": 179.0,
-    "image": "YOME.png",
+    "image": "biblesbyblessing-backend/YOME.png",
     "description": "A candle of love for couples."
   },
   {
@@ -188,7 +188,7 @@
     "name": "Red Candle",
     "category": "Candles",
     "price": 169.5,
-    "image": "SLOW.png",
+    "image": "biblesbyblessing-backend/SLOW.png",
     "description": "Elegant packaging, perfect for gifts."
   },
   {
@@ -196,7 +196,7 @@
     "name": "Believe Canvas",
     "category": "Wall Art",
     "price": 299.0,
-    "image": "Believe.png",
+    "image": "biblesbyblessing-backend/Believe.png",
     "description": "Framed scripture artwork."
   },
   {
@@ -204,23 +204,23 @@
     "name": "Jesus Christ love",
     "category": "Wall Art",
     "price": 349.0,
-    "image": "Child.png",
-    "description": "Canavs showing how God loves us."
+    "image": "biblesbyblessing-backend/Child.png",
+    "description": "Canvas showing how God loves us."
   },
   {
     "id": "wa503",
-    "name": "It is finished Canvas ",
+    "name": "It is finished Canvas",
     "category": "Wall Art",
     "price": 279.5,
-    "image": "Finished.png",
-    "description": "Crucifiction of Jesus Christ poster."
+    "image": "biblesbyblessing-backend/Finished.png",
+    "description": "Crucifixion of Jesus Christ poster."
   },
   {
     "id": "wa504",
     "name": "Jesus CHrist Canvas",
     "category": "Wall Art",
     "price": 399.0,
-    "image": "Live.png",
+    "image": "biblesbyblessing-backend/Live.png",
     "description": "Triptych layout of famous verses."
   },
   {
@@ -228,7 +228,7 @@
     "name": "He is risen poster",
     "category": "Wall Art",
     "price": 200.0,
-    "image": "Risen.png",
+    "image": "biblesbyblessing-backend/Risen.png",
     "description": "He is Risen, the grave is empty."
   },
   {
@@ -236,7 +236,7 @@
     "name": "Blue Sky Canvas",
     "category": "Wall Art",
     "price": 329.0,
-    "image": "Sky.png",
+    "image": "biblesbyblessing-backend/Sky.png",
     "description": "Nature + scripture photo print."
   },
   {
@@ -244,7 +244,7 @@
     "name": "Bible Scripture Canvas",
     "category": "Wall Art",
     "price": 299.5,
-    "image": "Strength.png",
+    "image": "biblesbyblessing-backend/Strength.png",
     "description": "Powerful Bible Verse Art."
   },
   {
@@ -252,7 +252,7 @@
     "name": "Jesus walks on water",
     "category": "Wall Art",
     "price": 359.0,
-    "image": "Water.png",
+    "image": "biblesbyblessing-backend/Water.png",
     "description": "Wall art of Jesus walking on water."
   }
 ]
